@@ -6,9 +6,12 @@
 <p align="justify">
 	O Jogo Da Vida é um jogo no qual o tabuleiro é baseado em uma matriz quadrada de tamanho minimo 5x5, onde ao executar o programa apenas uma pergunta é feita: "Quantas gerações?". A resposta dessa pergunta determinara quantas execuções serão realizadas encima da matriz inicial inserida pelo usuario junto com o tamanho da mesma, no arquivo denominado "input.mps". E sua saída sera realizada no arquivo "geracoes.mps" que ira imprimir a matriz inicial e todas as matrizes subsequentes.
 </p>
+![input](https://github.com/serginnn/TrabalhoJogoDaVida/assets/150479320/69dde292-d476-49ed-8d5f-526c2ee86e84)
+![output](https://github.com/serginnn/TrabalhoJogoDaVida/assets/150479320/8526772e-de1c-4f81-809f-17c96d1edd12)
+![FuncionamentoJogo](https://github.com/serginnn/TrabalhoJogoDaVida/assets/150479320/706cb6b5-5ce2-41d2-afb9-9c3fd4214226)
 
 <p align="center">
-<img src="imagens/input.png"/> 
+<img src="https://github.com/serginnn/TrabalhoJogoDaVida/assets/150479320/69dde292-d476-49ed-8d5f-526c2ee86e84"/> 
 </p>
 
 <p align="justify">
@@ -16,7 +19,7 @@
 </p>
 
 <p align="center">
-<img src="imagens/output.png"/> 
+<img src="https://github.com/serginnn/TrabalhoJogoDaVida/assets/150479320/8526772e-de1c-4f81-809f-17c96d1edd12"/> 
 </p>
 
 <p align="justify">
@@ -35,7 +38,7 @@
 </p>
 
 <p align="center">
-<img src="imagens/FuncionamentoJogo.png"/> 
+<img src="https://github.com/serginnn/TrabalhoJogoDaVida/assets/150479320/706cb6b5-5ce2-41d2-afb9-9c3fd4214226"/> 
 </p>
 
 <p align="justify">
